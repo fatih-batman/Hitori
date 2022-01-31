@@ -5,5 +5,7 @@ Hitori oyunu, hepsi [1-n] arasında bir sayı içeren karelerden oluşan nxn bü
 3. Dolu karelerin hepsi, yatay ve/veya dikey olarak birbirine bağlı olmalıdır (Dolu karelerin hepsi, tek bir (yatay ve/veya dikey) bağlantılı grup oluşturmalıdır) Oyun ile ilgili daha fazla bilgi ve örnek bulmacalar için aşağıdaki web sitelerini inceleyebilirsiniz: 
 
 • https://en.wikipedia.org/wiki/Hitori 
+
 • http://www.nikoli.co.jp/en/puzzles/hitori.html 
+
 • https://www.conceptispuzzles.com/index.aspx?uri=puzzle/hitori
