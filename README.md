@@ -9,3 +9,8 @@ Hitori oyunu, hepsi [1-n] arasında bir sayı içeren karelerden oluşan nxn bü
 • http://www.nikoli.co.jp/en/puzzles/hitori.html 
 
 • https://www.conceptispuzzles.com/index.aspx?uri=puzzle/hitori
+
+
+
+![hitori](https://user-images.githubusercontent.com/78312646/159259567-a8a53341-1c99-4578-ab3c-2a3a6e171895.png)
+Şekil 1: Oyuna air ekran görüntüsü
